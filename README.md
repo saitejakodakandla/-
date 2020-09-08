@@ -13,14 +13,14 @@ section8{
 }
 
 section1{
-	font-size: 30px;
+	font-size: 17px;
 }
 section2{
-	font-size: 35px;
+	font-size: 23px;
 	font-family: font-family:  Arial, Helvetica, sans-serif; 
 }
 section3{
-	font-size: 30px;
+	font-size: 17px;
 }
 section4{padding: 0px 50px 0px 0px;}
 section5{font-size: 19px;
