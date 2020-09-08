@@ -51,7 +51,7 @@ section12{font-size: 13px:;
 <body>
 	<body2><section><img src="asd.jpg" width="100px"></section><br>
 	<section1><h1>Myself</h1></section1>
-<section2><h1>💲aiteja</h1></section2>
+<section2><h1>Saiteja</h1></section2>
 <section3><h1>I'm a learner</h1></section3><br>
 <section><img src="asd.jpg" width="100px"></section><body2>
 <section4><img src="sai1.jpg"></section4><br>
