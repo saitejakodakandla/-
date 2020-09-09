@@ -49,14 +49,16 @@ section12{font-size: 13px:;
 
 section14{font-size: 17px;
 color: red;}
-	</style>
+section{padding: 0px 0px 0px 200px;}
+section36{padding: 0px 154px 0px 0px;}
+</style>
 </head>
 <body>
 	<body2><section><img src="asd.jpg" width="100px"></section><br>
 	<section1><h1>Myself</h1></section1>
 <section2><h1>saiteja</h1></section2>
 <section3><h1>I'm a learner</h1></section3><br>
-<section><img src="asd.jpg" width="100px"></section><body2>
+<section36><img src="asd.jpg" width="100px"></section36><body2>
 <section4><img src="sai1.jpg" width= "200px"></section4><br>
 <section5>Hello There</section5><br>
 <section6>Iam a student studying(B.Tech;IT)</section6><br><section11><a href="https://www.bharathuniv.ac.in/">Bharath Institute of higher education and research(BIHER)</a></section11><br><br><section7>.............</section7><br><br>
