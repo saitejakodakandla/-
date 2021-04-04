@@ -46,6 +46,15 @@ color: red;
 }
 section12{font-size: 13px:;
 	list-style-type: circle;}
+	section4{
+display: block;
+width: 215px; 
+height: 215px; 
+border-radius: 50%;
+margin: 0 auto;
+object-fit: cover;
+border:4px solid #7fff00;
+}
 
 section14{font-size: 17px;
 color: red;}
